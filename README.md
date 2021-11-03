@@ -11,6 +11,8 @@ USER - { email: "john@example.com", password: "0123456" }
 <br />
 <br />
 PAYPAL(SANDBOX) - { email: sb-47naiv8389532@personal.example.com, password: !H.Dr0X6}
+<br />
+<br />
 RESOURCES - REACT.js, Node.js, Express.js, Redux, Mongoose, MongoDB, Bootstrap
 <br />
 <br />
