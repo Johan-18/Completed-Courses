@@ -3,7 +3,7 @@ These are a couple links for some sample projects I created with tutorials!
 
 # MERN E-COMMERCE
 
-ProShop(https://proshopppa.herokuapp.com) - A simple E-commerce web app that has admin functionalities such as: <br />editing/removing/adding users <br />editing/removing/adding products <br />marking orders as delivered
+ProShop(https://proshopppa.herokuapp.com) - A simple E-commerce web app that has admin functionalities such as: <br />-editing/removing/adding users <br />-editing/removing/adding products <br />-marking orders as delivered
 <br />
 <br />
 ADMIN - { email: "admin@example.com", password: "0123456" }
