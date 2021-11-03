@@ -10,6 +10,9 @@ ADMIN - { email: "admin@example.com", password: "0123456" }
 USER - { email: "john@example.com", password: "0123456" }
 <br />
 <br />
+RESOURCES - REACT.js, Node.js, Express.js, Redux, Mongoose, MongoDB, Bootstrap
+<br />
+<br />
 DISCLOSER - The paypal functions work properly and I have the account in sandbox mode; However, with that said do not buy anything if thats even possible as I am not actually selling those products.
 <br />
 <br />
